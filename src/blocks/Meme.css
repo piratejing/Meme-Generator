@@ -17,8 +17,14 @@
 .form-button {
   grid-column: 1 / -1;
   border-radius: 5px;
+
   color: white;
   border: none;
   cursor: pointer;
   background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+}
+
+.meme-image {
+  padding-top: 17px;
+  width: 100%;
 }
